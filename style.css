@@ -23,8 +23,8 @@ li {
   padding: 30px;
   background-color: #fff;
   opacity: 0.85;
-  display: inline-flex;
-  flex-direction: row;
+  /*display: inline-flex;
+  flex-direction: row;*/
   width: 50%;
 }
 
